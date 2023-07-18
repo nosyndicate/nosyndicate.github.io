@@ -26,6 +26,7 @@ author:
 
 
 # URL settings
+website: https://nosyndicate.github.io
 url: "nosyndicate.github.io" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
@@ -34,6 +35,8 @@ kramdown:
   input: GFM
   math_engine: mathjax
   syntax_highlighter: rouge
+
+
 
 
 exclude:
